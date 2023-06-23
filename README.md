@@ -10,11 +10,11 @@ This repo contains code from the paper: **Skin Tone Analysis for Representation 
 ## Repo organization
 
 - See *this notebook (TBD)* for code regarding extracting images from dermatology textbooks using the structured file (JSON) of the ingestion output using [Deep Search](https://ds4sd.github.io/) and to run a binary classification of skin vs. non-skin images (block **b** and **c** in Figure).
-- See [this notebook](./segmentation_and_skintone_classification.ipynb) to see experiments in skin segmentation, feature extraction (e.g ITA values), and skin tone models with traditional machine learning as well as deep learning (block **d** and **e** in Figure).
+- See [this notebook](./segmentation_and_skintone_classification.ipynb) to see experiments in skin segmentation, feature extraction (e.g,  ITA values), and skin tone models with traditional machine learning as well as deep learning (block **d** and **e** in Figure).
 
 ## Citation
 
-If you find useful this repo please consider to cite:
+If you find useful this repo, please consider citing:
 TBD
 
 ## Setup 
